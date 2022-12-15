@@ -9,8 +9,7 @@ def write_file():
     pass 
 
 def loop():
-    for i in range(5):
-        print(i)
+    pass
         
 
 # initial commit
